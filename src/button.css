@@ -1,0 +1,10 @@
+button {
+	height: 166.67px;
+	width:33.33%;
+	vertical-align: top;
+}
+
+.ButtonGroup {
+	height: 166.67px;
+	padding-bottom: 0px;
+}
